@@ -2,17 +2,17 @@
     "todo":[
     {
     "id": 1,
-    "title": "delectus aut autem",
+    "title": "task1: add user",
     "completed": false
   },
   {
     "id": 2,
-    "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+    "title": "task2: clear table",
     "completed": false
   },
   {
     "id": 3,
-    "title": "illo expedita consequatur quia in",
+    "title": "task3: feed cats",
     "completed": false
   }
 ]
